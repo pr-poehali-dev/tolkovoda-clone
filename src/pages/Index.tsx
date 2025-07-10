@@ -79,8 +79,8 @@ const Index = () => {
             <div className="relative">
               <div className="w-full h-96 rounded-3xl overflow-hidden shadow-2xl">
                 <img
-                  src="/img/9b0874f4-027a-47ca-884b-671e9cc3e9d9.jpg"
-                  alt="Жемчужина Абхазии - минеральная вода"
+                  src="https://cdn.poehali.dev/files/de417371-8fa8-4438-b78f-691471e01e4c.jpg"
+                  alt="Жемчужина Абхазии - бутылки разных объемов"
                   className="w-full h-full object-cover"
                 />
               </div>
